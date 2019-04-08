@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CircleProgressBar</string>
+    <string name="increase_progress">增加进度</string>
+    <string name="reduce_progress">减少进度</string>
+    <string name="automatic_progress">自动进度</string>
+</resources>
